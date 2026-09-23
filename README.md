@@ -70,9 +70,6 @@ C++ console application demonstrating:
 
 Automation workflows using n8n, APIs, data validation, and notifications.
 
-## 🌐 Portfolio
-
-Live website: **[Add your GitHub Pages / Vercel link here]**
 
 ## 📫 Contact
 
